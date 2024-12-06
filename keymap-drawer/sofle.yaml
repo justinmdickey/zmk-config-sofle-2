@@ -15,43 +15,43 @@ layers:
   - {t: '0', s: )}
   - {t: '$$mdi:backspace$$', type: backspace}
   - $$mdi:keyboard-tab$$
-  - B
-  - L
-  - D
+  - Q
   - W
-  - Z
-  - $$mdi:arrow-down-bold$$
-  - {t: '-', s: _}
-  - F
-  - O
-  - U
-  - J
-  - {t: ;, s: ':'}
-  - {t: '`', s: '~'}
-  - N
+  - E
   - R
   - T
+  - $$mdi:arrow-down-bold$$
+  - Y
+  - U
+  - I
+  - O
+  - P
+  - $$mdi:backspace-reverse-outline$$
+  - {t: '`', s: '~'}
+  - A
   - S
+  - D
+  - F
   - G
   - $$mdi:arrow-left-bold$$
-  - Y
   - H
-  - A
-  - E
+  - J
+  - K
   - L
-  - {t: /, s: '?'}
+  - {t: ;, s: ':'}
+  - {t: '''', s: '"'}
   - $$mdi:apple-keyboard-shift$$
-  - Q
+  - Z
   - X
-  - M
   - C
   - V
+  - B
   - $$mdi:arrow-right-bold$$
-  - K
-  - P
-  - .
-  - {t: '''', s: '"'}
+  - N
+  - M
   - {t: ',', s: <}
+  - .
+  - {t: /, s: '?'}
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:volume-off$$
   - $$mdi:apple-keyboard-control$$
